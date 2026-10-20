@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "uploads": [
+    {
+      "original_filename": "6264794028897406742.jpg",
+      "canonical_path": "logos/primary/bluelink-logo-dark-background.jpg",
+      "sha256": "4beae69b35db34fdf9b930e9ec55c414e14d49b4bbfd6b384aa3256d38d68d84",
+      "bytes": 20576,
+      "preservation": "unchanged_bytes",
+      "duplicate_upload": false
+    },
+    {
+      "original_filename": "6264794028897406743.jpg",
+      "canonical_path": "logos/primary/bluelink-logo-light-background.jpg",
+      "sha256": "69277f8f48cda58c24d8efb7ab318aa931be2a81bdb833322e7e8812a493e84c",
+      "bytes": 24807,
+      "preservation": "unchanged_bytes",
+      "duplicate_upload": false
+    },
+    {
+      "original_filename": "logo.png",
+      "canonical_path": "logos/transparent/bluelink-monogram-transparent.png",
+      "sha256": "4ad8da7b0287232025fdf58be7c4a32db8dee5ce9d0fdc7894e3aeb157172645",
+      "bytes": 71627,
+      "preservation": "unchanged_bytes",
+      "duplicate_upload": false
+    },
+    {
+      "original_filename": "logo - Copy.png",
+      "canonical_path": "logos/transparent/bluelink-monogram-transparent.png",
+      "sha256": "4ad8da7b0287232025fdf58be7c4a32db8dee5ce9d0fdc7894e3aeb157172645",
+      "bytes": 71627,
+      "preservation": "unchanged_bytes",
+      "duplicate_upload": true
+    }
+  ]
+}

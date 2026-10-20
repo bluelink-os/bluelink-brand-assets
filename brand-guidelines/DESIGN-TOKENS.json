@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "brand": "BlueLink",
+  "version": "1.0.0",
+  "status": "final",
+  "issued": "2026-10-20",
+  "scope": "Digital documentation and brand-library layouts; not a reconstruction of existing website CSS.",
+  "colors": {
+    "navy": {
+      "value": "#11203F",
+      "role": "Dark text and supporting navy",
+      "basis": "measured_raster",
+      "evidence": "../metadata/color-samples.json"
+    },
+    "blue": {
+      "value": "#155BBC",
+      "role": "Primary accent and links on white",
+      "basis": "measured_raster",
+      "evidence": "../metadata/color-samples.json"
+    },
+    "sky": {
+      "value": "#3D90F0",
+      "role": "Decorative highlight on dark surfaces",
+      "basis": "measured_raster",
+      "evidence": "../metadata/color-samples.json"
+    },
+    "highlight": {
+      "value": "#4497F2",
+      "role": "Decorative accent; not small text on white",
+      "basis": "measured_raster",
+      "evidence": "../metadata/color-samples.json"
+    },
+    "surface": {
+      "value": "#11131F",
+      "role": "Dark document/presentation background",
+      "basis": "measured_raster",
+      "evidence": "../metadata/color-samples.json"
+    },
+    "light-source": {
+      "value": "#FEFEFE",
+      "role": "Observed JPEG background, not a mandatory neutral",
+      "basis": "measured_raster",
+      "evidence": "../metadata/color-samples.json"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "role": "Digital document surface",
+      "basis": "edition_standard"
+    }
+  },
+  "typography": {
+    "body_family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    "code_family": "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+    "scale": {
+      "h1": {
+        "size_px": 36,
+        "weight": 700,
+        "line_height": 1.15
+      },
+      "h2": {
+        "size_px": 28,
+        "weight": 700,
+        "line_height": 1.25
+      },
+      "h3": {
+        "size_px": 20,
+        "weight": 600,
+        "line_height": 1.35
+      },
+      "body": {
+        "size_px": 16,
+        "weight": 400,
+        "line_height": 1.6
+      },
+      "caption": {
+        "size_px": 14,
+        "weight": 400,
+        "line_height": 1.45
+      },
+      "code": {
+        "size_px": 14,
+        "weight": 400,
+        "line_height": 1.5
+      }
+    }
+  },
+  "logo": {
+    "clear_space_to_visible_height_ratio": 0.125,
+    "normal_min_visible_height_css_px": 64,
+    "normal_min_visible_height_print_mm": 20,
+    "native_transparent_canvas_px": [
+      358,
+      358
+    ],
+    "nonzero_alpha_bounds_xyxy_exclusive": [
+      29,
+      19,
+      324,
+      339
+    ]
+  },
+  "notes": [
+    "Original logo pixels and gradients are not replaced by these flat-color tokens.",
+    "No font binaries are included.",
+    "Print/manufacturing equivalents require separate production work."
+  ],
+  "color_space": "sRGB"
+}

@@ -1,0 +1,173 @@
+{
+  "methodology": "Recorded raster measurements. Color roles are the v1.0.0 documentation standard; values are not recovered website CSS or native vector gradient stops. No print-color equivalence is asserted.",
+  "samples": [
+    {
+      "id": "navy",
+      "name": "Monogram navy",
+      "hex": "#11203F",
+      "rgb": [
+        17,
+        32,
+        63
+      ],
+      "source": "logos/transparent/bluelink-monogram-transparent.png",
+      "sample_center_xy": [
+        78,
+        83
+      ],
+      "method": "3x3 median of unassociated RGB values; 0-based coordinates",
+      "alpha_note": "Sample pixels are near-opaque; RGB values are not composited onto a background.",
+      "role": "Dark text and supporting navy",
+      "standard_scope": "v1.0.0 documentation"
+    },
+    {
+      "id": "blue",
+      "name": "Core blue",
+      "hex": "#155BBC",
+      "rgb": [
+        21,
+        91,
+        188
+      ],
+      "source": "logos/transparent/bluelink-monogram-transparent.png",
+      "sample_center_xy": [
+        109,
+        300
+      ],
+      "method": "3x3 median of unassociated RGB values; 0-based coordinates",
+      "alpha_note": "Sample pixels are near-opaque; RGB values are not composited onto a background.",
+      "role": "Primary accent and links on white",
+      "standard_scope": "v1.0.0 documentation"
+    },
+    {
+      "id": "sky",
+      "name": "Sky blue",
+      "hex": "#3D90F0",
+      "rgb": [
+        61,
+        144,
+        240
+      ],
+      "source": "logos/transparent/bluelink-monogram-transparent.png",
+      "sample_center_xy": [
+        257,
+        47
+      ],
+      "method": "3x3 median of unassociated RGB values; 0-based coordinates",
+      "alpha_note": "Sample pixels are near-opaque; RGB values are not composited onto a background.",
+      "role": "Decorative highlight on dark surfaces",
+      "standard_scope": "v1.0.0 documentation"
+    },
+    {
+      "id": "highlight",
+      "name": "Bright highlight",
+      "hex": "#4497F2",
+      "rgb": [
+        68,
+        151,
+        242
+      ],
+      "source": "logos/transparent/bluelink-monogram-transparent.png",
+      "sample_center_xy": [
+        59,
+        225
+      ],
+      "method": "3x3 median of unassociated RGB values; 0-based coordinates",
+      "alpha_note": "Sample pixels are near-opaque; RGB values are not composited onto a background.",
+      "role": "Decorative accent; not small text on white",
+      "standard_scope": "v1.0.0 documentation"
+    },
+    {
+      "id": "surface",
+      "name": "Dark presentation surface",
+      "hex": "#11131F",
+      "rgb": [
+        17,
+        19,
+        31
+      ],
+      "source": "logos/primary/bluelink-logo-dark-background.jpg",
+      "sample_region_xyxy": [
+        0,
+        0,
+        9,
+        9
+      ],
+      "method": "9x9 median of RGB values; 0-based, upper bound exclusive",
+      "role": "Dark document/presentation background",
+      "standard_scope": "v1.0.0 documentation"
+    },
+    {
+      "id": "light-source",
+      "name": "Light presentation surface",
+      "hex": "#FEFEFE",
+      "rgb": [
+        254,
+        254,
+        254
+      ],
+      "source": "logos/primary/bluelink-logo-light-background.jpg",
+      "sample_region_xyxy": [
+        0,
+        0,
+        9,
+        9
+      ],
+      "method": "9x9 median of RGB values; 0-based, upper bound exclusive",
+      "role": "Observed JPEG background, not a mandatory neutral",
+      "standard_scope": "v1.0.0 documentation"
+    }
+  ],
+  "calculated_contrast": [
+    {
+      "pair": "Navy on white",
+      "foreground": "#11203F",
+      "background": "#FFFFFF",
+      "ratio": 16.126368,
+      "normal_text_AA": true,
+      "large_text_AA": true
+    },
+    {
+      "pair": "Core blue on white",
+      "foreground": "#155BBC",
+      "background": "#FFFFFF",
+      "ratio": 6.452628,
+      "normal_text_AA": true,
+      "large_text_AA": true
+    },
+    {
+      "pair": "Sky blue on white",
+      "foreground": "#3D90F0",
+      "background": "#FFFFFF",
+      "ratio": 3.257846,
+      "normal_text_AA": false,
+      "large_text_AA": true
+    },
+    {
+      "pair": "Bright highlight on white",
+      "foreground": "#4497F2",
+      "background": "#FFFFFF",
+      "ratio": 3.019587,
+      "normal_text_AA": false,
+      "large_text_AA": true
+    },
+    {
+      "pair": "Sky blue on dark surface",
+      "foreground": "#3D90F0",
+      "background": "#11131F",
+      "ratio": 5.670438,
+      "normal_text_AA": true,
+      "large_text_AA": true
+    },
+    {
+      "pair": "White on core blue",
+      "foreground": "#FFFFFF",
+      "background": "#155BBC",
+      "ratio": 6.452628,
+      "normal_text_AA": true,
+      "large_text_AA": true
+    }
+  ],
+  "version": "1.0.0",
+  "color_space_for_contrast": "sRGB"
+}

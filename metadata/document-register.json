@@ -1,0 +1,280 @@
+{
+  "version": "1.0.0",
+  "issued": "2026-10-20",
+  "state": "final",
+  "core_item_count": 23,
+  "documents": [
+    {
+      "id": "BL-001",
+      "path": "README.md",
+      "title": "BlueLink | Official Brand Assets",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-002",
+      "path": "BRAND-USAGE.md",
+      "title": "BlueLink Brand Usage Policy",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-003",
+      "path": "LICENSE.md",
+      "title": "BlueLink Brand Asset Rights Notice",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-004",
+      "path": "INTELLECTUAL-PROPERTY.md",
+      "title": "BlueLink Intellectual Property Framework",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-005",
+      "path": "brand-guidelines/BRAND-GUIDELINES.md",
+      "title": "BlueLink Brand Guidelines",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-006",
+      "path": "brand-guidelines/COLOR-PALETTE.md",
+      "title": "BlueLink Color Palette",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-007",
+      "path": "brand-guidelines/TYPOGRAPHY.md",
+      "title": "BlueLink Typography Standard",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-008",
+      "path": "brand-guidelines/LOGO-SPECIFICATIONS.md",
+      "title": "BlueLink Logo Specifications",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-009",
+      "path": "documents/COMPANY-OVERVIEW.md",
+      "title": "BlueLink Company Overview",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-010",
+      "path": "documents/TRADEMARK-POLICY.md",
+      "title": "BlueLink Trademark Policy",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-011",
+      "path": "documents/IP-OWNERSHIP-STATEMENT.md",
+      "title": "BlueLink Public IP and Custodianship Statement",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-012",
+      "path": "documents/BRAND-AUTHORIZATION.md",
+      "title": "BlueLink Brand Authorization Procedure",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-013",
+      "path": "documents/PRODUCT-BRANDING.md",
+      "title": "BlueLink Product Branding Standard",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-014",
+      "path": "documents/BLT-BRAND-GUIDELINES.md",
+      "title": "BlueLink Token (BLT) Brand Guidance",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-015",
+      "path": "documents/ECOSYSTEM-ASSET-REGISTRY.md",
+      "title": "BlueLink Ecosystem Identity Registry",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-016",
+      "path": "governance/DOCUMENT-CONTROL.md",
+      "title": "BlueLink Document Control Standard",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-017",
+      "path": "governance/ASSET-APPROVAL-POLICY.md",
+      "title": "BlueLink Asset Approval Policy",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-018",
+      "path": "governance/RELEASE-POLICY.md",
+      "title": "BlueLink Brand Release Policy",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-019",
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to BlueLink Brand Assets",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-020",
+      "path": "SECURITY.md",
+      "title": "BlueLink Brand Integrity and Security Reporting",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-021",
+      "path": "CHANGELOG.md",
+      "title": "BlueLink Brand Assets Changelog",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-022",
+      "path": "ASSET-MANIFEST.md",
+      "title": "BlueLink Asset Manifest",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-023",
+      "path": "brand-guidelines/DESIGN-TOKENS.json",
+      "title": "BlueLink Design Tokens",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-024",
+      "path": "governance/DOMAIN-AND-LINK-REGISTER.md",
+      "title": "BlueLink Domain and Link Register",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-025",
+      "path": "governance/PUBLICATION-CHECKLIST.md",
+      "title": "BlueLink Publication Checklist",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-026",
+      "path": "media-kit/BOILERPLATE.md",
+      "title": "BlueLink Public Boilerplate",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-027",
+      "path": "RELEASE-NOTES.md",
+      "title": "BlueLink Official Brand Assets - v1.0.0",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-028",
+      "path": "PUBLISHING.md",
+      "title": "Publishing BlueLink Brand Assets",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-029",
+      "path": "governance/SOURCES.md",
+      "title": "BlueLink Source and Provenance Register",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public"
+    },
+    {
+      "id": "BL-030",
+      "path": "documents/BlueLink-Brand-Identity-and-Governance-v1.0.0.pdf",
+      "title": "BlueLink Brand Identity and Governance Handbook",
+      "version": "1.0.0",
+      "status": "final",
+      "issued": "2026-10-20",
+      "classification": "public",
+      "type": "illustrated_companion",
+      "pages": 16
+    }
+  ]
+}

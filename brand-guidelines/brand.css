@@ -1,0 +1,20 @@
+/* BlueLink v1.0.0 documentation tokens. Does not modify logo artwork. */
+:root {
+  --bl-navy: #11203f;
+  --bl-blue: #155bbc;
+  --bl-sky: #3d90f0;
+  --bl-highlight: #4497f2;
+  --bl-dark: #11131f;
+  --bl-source-light: #fefefe;
+  --bl-white: #ffffff;
+  --bl-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --bl-mono: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+}
+.bl-document { font-family: var(--bl-font); color: var(--bl-navy); background: var(--bl-white); font-size: 1rem; line-height: 1.6; }
+.bl-document h1 { font-size: 2.25rem; font-weight: 700; line-height: 1.15; }
+.bl-document h2 { font-size: 1.75rem; font-weight: 700; line-height: 1.25; }
+.bl-document h3 { font-size: 1.25rem; font-weight: 600; line-height: 1.35; }
+.bl-document a { color: var(--bl-blue); text-decoration: underline; }
+.bl-document code { font-family: var(--bl-mono); font-size: .875rem; }
+.bl-document .caption { font-size: .875rem; line-height: 1.45; }
+.bl-document img { max-width: 100%; height: auto; }

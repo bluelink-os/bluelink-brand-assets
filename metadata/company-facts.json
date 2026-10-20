@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "as_of": "2026-10-20",
+  "public_brand": "BlueLink",
+  "organization_name": {
+    "value": "BlueLink Blockchain Services",
+    "basis": "company_supplied"
+  },
+  "positioning": {
+    "value": "Tokenized real-world assets and digital markets",
+    "basis": "website_title"
+  },
+  "website": {
+    "value": "https://bluelinkos.com/",
+    "basis": "company_designated_and_title_retrieved",
+    "complete_site_verified": false
+  },
+  "github_organization": {
+    "value": "https://github.com/bluelink-os",
+    "basis": "company_supplied",
+    "live_state_verified": false
+  },
+  "contact": {
+    "value": "ai@bluelinkos.com",
+    "basis": "company_supplied",
+    "delivery_tested": false
+  },
+  "product": {
+    "name": "BlueLink Token (BLT)",
+    "basis": "company_supplied",
+    "separate_artwork_included": false,
+    "repository": "https://github.com/bluelink-os/BLT_Smart-Contract",
+    "contract_release_tag": "v1.0.0",
+    "contract_commit_company_supplied": "af4bdec55c48775754931efb4019b6d12b58484a",
+    "audit_to_commit_verified": false
+  },
+  "external_assessment": "https://app.solidproof.io/projects/bluelink",
+  "claims_not_made": [
+    "Verified legal chain of title",
+    "Registered trademark",
+    "Legal entity suffix or incorporation jurisdiction",
+    "Complete live-product catalog",
+    "Brand library audited by SolidProof",
+    "Verified contract deployment or audit-to-source equivalence"
+  ]
+}

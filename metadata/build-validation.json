@@ -1,0 +1,28 @@
+{
+  "package_version": "1.0.0",
+  "date": "2026-10-20",
+  "result": "pass",
+  "core_document_items": 23,
+  "controlled_documents_including_companion": 30,
+  "image_assets_verified": 11,
+  "unique_originals_preserved": 3,
+  "source_uploads_accounted_for": 4,
+  "raster_color_samples_recomputed": 6,
+  "contrast_pairs_recomputed": 6,
+  "relative_markdown_links_checked": 99,
+  "json_syntax": "pass",
+  "python_syntax": "pass",
+  "asset_verifier_clean_run": "pass",
+  "asset_verifier_tamper_detection": "pass",
+  "asset_verifier_missing_file_detection": "pass",
+  "pdf": {
+    "pages": 16,
+    "rendered": true,
+    "visual_layout_inspected": true,
+    "out_of_page_text": 0,
+    "orphan_pages": 0
+  },
+  "font_files_in_archive": 0,
+  "external_reference_note": "Public-source research completed; site CSS, live company GitHub state, mailbox delivery and legal title were not independently verified.",
+  "publication_performed": false
+}

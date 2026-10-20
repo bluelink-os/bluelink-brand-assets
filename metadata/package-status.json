@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "version": "1.0.0",
+  "document_status": "final",
+  "issued": "2026-10-20",
+  "distribution_state": "packaged_for_publication",
+  "intended_repository_name": "bluelink-brand-assets",
+  "company_github_organization": "bluelink-os",
+  "remote_publication_performed_by_this_package": false,
+  "publication_record": "The GitHub tag and release provide the actual brand-source commit and publication timestamp.",
+  "scope": {
+    "original_corporate_assets": 3,
+    "derived_image_exports": 8,
+    "native_vector_included": false,
+    "separate_product_artwork_included": false
+  },
+  "standards_scope": "v1.0.0 digital documentation; original logo artwork preserved",
+  "rights_notice_type": "Public asset-use and custodianship notice, not a legal ownership certificate"
+}
